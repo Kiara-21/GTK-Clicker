@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{88ABA214-01DC-4C88-864F-EE38BD72BFDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clicker_app/MainWindow.cs">
+    <Files>
+      <File FileName="Clicker_app/Program.cs" Line="1" Column="1" />
+      <File FileName="Clicker_app/MainWindow.cs" Line="35" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Clicker__app PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
